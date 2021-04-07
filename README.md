@@ -1,4 +1,8 @@
-# ncsctf-2021-writeups
+# National Cyber Scholarship CTF Writeups
+
+## The competition
+
+## My results
 
 ![image](https://user-images.githubusercontent.com/69332964/113898247-accf7680-9799-11eb-8ffb-12ef52b95476.png)
 
