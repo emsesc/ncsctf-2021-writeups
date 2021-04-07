@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/69332964/113904971-a55f9b80-97a0-11eb-9300-d164dc1d3cb4.png)
 # National Cyber Scholarship CTF Writeups
 
 ## The competition
@@ -9,5 +10,6 @@
 * I ended up placing 25th out of 3,277 players, which wasn't bad, considering that I expected to do worse. 
 * My point values were low because I mainly targeted the "easy," "medium," and some "hard" challenges, straying away from the "extreme" category.
 * Overall, pretty pleased with the outcome!
+* Edit: Realized a fatal mistake that cost me 2,250 points. *Don't get tunnel-vision!*
 
 > Note: In my opinion, these "binary" challenges were not what I expected. Mostly reversing and just guessing what the service wanted??
