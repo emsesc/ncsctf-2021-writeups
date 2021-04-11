@@ -10,6 +10,7 @@ I also contributed to this collection of writeups organized by UK students, whic
 ## About
 This is *geared towards beginners* who may need more detailed instructions or explanations.
 > **Example:** This includes commands on how to change permissions on a binary file in order to run it.
+
 ## The Challenges
 
 > Credits to [this collection](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021) for the formatting and challenge files :)
