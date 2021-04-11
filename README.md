@@ -6,6 +6,10 @@
 > If you want to play these challenges in the writeups, **join the National Cyber Scholarship Competition - Practice Arena** with this [Tomahawque](https://www.tomahawque.com/) event code: `frail-tub`.
 
 I also contributed to this collection of writeups organized by UK students, which can be found [here](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021)
+
+## About
+This is *geared towards beginners* who may need more detailed instructions or explanations.
+> **Example:** This includes commands on how to change permissions on a binary file in order to run it.
 ## The Challenges
 
 > Credits to [this collection](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021) for the formatting and challenge files :)
