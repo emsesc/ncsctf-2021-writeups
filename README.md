@@ -14,6 +14,7 @@ This is *geared towards beginners* who may need more detailed instructions or ex
 ## The Challenges
 
 > Credits to [this collection](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021) for the formatting and challenge files :)
+
 ### Binary
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
